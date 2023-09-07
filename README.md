@@ -1,2 +1,2 @@
 # calculator
-simple calculator in python
+I developed a simple calculator in python using kivy.
